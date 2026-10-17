@@ -1,4 +1,8 @@
-# RFID Gateway
+<p align="center">
+  <img src="assets/logo.png" alt="ModuleBit" width="200">
+</p>
+
+<h1 align="center">RFID Gateway</h1>
 
 Phần mềm kết nối và quản lý **reader RFID UHF Hopeland** trên Windows: đọc tag realtime, cấu hình reader,
 ghi / khoá tag, và cung cấp API (REST + WebSocket) cho hệ thống khác (ERP, WMS…).
